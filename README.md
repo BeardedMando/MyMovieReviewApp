@@ -41,7 +41,7 @@ open MovieReviewApp.xcodeproj
 
 Build and run the project on a simulator or your device.
 
-Usage
+## How to add a Review
 
 Launch the app.
 
