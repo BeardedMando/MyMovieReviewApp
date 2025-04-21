@@ -32,7 +32,7 @@ Swift 5.0
 
 Clone the repository:
 
-git clone https://github.com/yourusername/MovieReviewApp.git
+git clone https://github.com/BeardedMando/MyMovieReviewApp.git
 
 ## Open the project in Xcode:
 
